@@ -1,0 +1,39 @@
+.btn-blue {
+    background: #76A8BC;
+    padding: 14px;
+    font-weight: bold;
+    text-decoration/ALIGN-CONTENT: NONE;
+    border-radius: 50px;
+    text-decoration: none;
+    display: block;
+    width: 30%;
+    margin: 8px auto;
+    text-align: center;
+}
+
+.btn-blue:hover {
+	background-color: #508CA4;
+	color: lightblue;
+	transition: 2s;
+}
+
+
+.btn-blue1 {
+
+    background: lightpink;
+    padding: 14px;
+    font-weight: bold;
+    text-decoration/ALIGN-CONTENT: NONE;
+    border-radius: 50px;
+    text-decoration: none;
+    display: block;
+    width: 20%;
+    margin: 8px auto;
+    text-align: center;
+    font-size: 2vh;
+}
+
+.btn-blue1:hover {
+    background-color: #508CA4;
+    color: lightblue;
+    transition: 2s;
